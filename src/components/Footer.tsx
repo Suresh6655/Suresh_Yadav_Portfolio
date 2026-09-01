@@ -147,7 +147,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenResume }) => {
         {/* Bottom Bar */}
         <div className="mt-12 pt-6 border-t border-slate-900 flex flex-col sm:flex-row items-center justify-between gap-4 text-[11px] text-slate-500 font-mono">
           <div>
-            © {new Date().getFullYear()} Kundan Patel. All rights reserved. Built with AI.
+            © {new Date().getFullYear()} Suresh Yadav. All rights reserved. Build With React and Tailwind CSS.
           </div>
 
           <button
