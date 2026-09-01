@@ -17,7 +17,7 @@ import {
   Terminal
 } from 'lucide-react';
 import { personalInfo } from '../data/portfolioData';
-import defaultAvatar from '../assets/images/suresh_yadav_profile_1788196307482.jpg';
+import defaultAvatar from '../assets/images/ChatGPT Image Sep 1, 2026, 11_11_38 AM.png';
 
 interface HeroProps {
   onOpenResume: () => void;
